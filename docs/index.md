@@ -3,7 +3,7 @@
 
 Sitio de Documentacion de UANDES LAB
 
-### PRUEBA MAX2222222222222222222222222222222222222
+### PRUEBA 2
 
 
 !!! warning "CUIDADO"
