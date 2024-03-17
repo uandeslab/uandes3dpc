@@ -3,6 +3,8 @@
 
 Sitio de Documentacion de UANDES LAB
 
+### PRUEBA MAX2
+
 
 !!! warning "CUIDADO"
     Tener cuidado con el cable de la impresora
