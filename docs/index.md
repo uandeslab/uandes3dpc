@@ -5,7 +5,7 @@ Sitio de Documentacion de UANDES LAB
 
 
 !!! warning "CUIDADO"
-    Tener cuidado con el cable de la impresora
+    Tener cuidado con el cable de la impresoraaaaaa
 
 ``` gcode title="hola.gcode" linenums="1"
 G0 X10 Y10 Z10 F990 E9
