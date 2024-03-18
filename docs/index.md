@@ -4,7 +4,7 @@
 Sitio de Documentacion de UANDES LAB
 
 ### PRUEBA 2
-DANIESTUVOAQUIa
+MAXI ESTUVO AQUI
 
 
 !!! warning "CUIDADO"
