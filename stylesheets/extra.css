@@ -1,0 +1,4 @@
+:root > * {
+    --md-code-hl-comment-color: #20ae16;
+    --md-code-hl-keyword-color: #0cb1e3;
+  }
